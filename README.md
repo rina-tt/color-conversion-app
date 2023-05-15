@@ -5,6 +5,10 @@
 ## 概要
 入力した画像の一部を別の色で塗りつぶすことができる。
 
+[スライド(Google drive)](https://drive.google.com/file/d/1KtU3N0gb22Lsgl9MHaepyVDoutHpd4dI/view?usp=sharing)
+
+[詳細資料(Google drive)](https://drive.google.com/file/d/1pHyGHyJai6rglXZUvV5s1yqhdzYXATQe/view?usp=sharing)
+
 ## 機能
 実装済みの機能は以下のとおりである。間違い数と正解表示機能については実装できなかった。
 ### 1. ファイルメニュー
@@ -50,4 +54,5 @@
   - 画像ファイル以外のファイルを選んだとき
 
 ## 変更履歴
-2023/05/10 リポジトリ作成
+* 2023/05/10 リポジトリ作成
+* 2023/05/15 詳細資料追加
